@@ -1,0 +1,13 @@
+MANIFEST.in
+README.txt
+setup.py
+helloMisha/__init__.py
+helloMisha/core.py
+helloMisha/web.py
+helloMisha/templates/index.html
+hi.egg-info/PKG-INFO
+hi.egg-info/SOURCES.txt
+hi.egg-info/dependency_links.txt
+hi.egg-info/entry_points.txt
+hi.egg-info/requires.txt
+hi.egg-info/top_level.txt

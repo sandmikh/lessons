@@ -1,0 +1,4 @@
+[console_scripts]
+hi = helloMisha.core:print_message
+serve = helloMisha.web:run_server
+
